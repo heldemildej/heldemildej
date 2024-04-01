@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Sou desenvolvedor de jogos;</h1><br>.
+Sou desenvolvedor de jogos;.
 
 
 ## 🌐 Socials:
