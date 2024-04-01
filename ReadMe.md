@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor de jogos;.
+Software developer | Game developer;
 
 
 ## 🌐 Socials:
