@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor de jogos;<br>Estou a procura de um emprego.
+<h1>Sou desenvolvedor de jogos;</h1><br>.
 
 
 ## 🌐 Socials:
