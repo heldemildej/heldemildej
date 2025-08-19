@@ -1,4 +1,4 @@
-# 💫 About Mim:
+# 💫 About Me:
 Software developer | Game developer;
 
 
