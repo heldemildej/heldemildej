@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer | Game developer;
+Software Developer (.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server) | Game Developer
 
 
 ## 🌐 Sociales:
