@@ -6,15 +6,14 @@ Software Developer (.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server) | Gam
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heldemilde-joão-) 
 
 # 💻 Tech Stack:
-## 🚀 Tecnologias & Ferramentas
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Razor Pages](https://img.shields.io/badge/Razor%20Pages-68217A.svg?style=for-the-badge&logo=razor&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heldemildej&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
