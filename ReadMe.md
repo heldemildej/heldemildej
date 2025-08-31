@@ -7,12 +7,8 @@ Software Developer (.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server) | Gam
 
 # 💻 Tech Stack:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Razor Pages](https://img.shields.io/badge/Razor%20Pages-68217A.svg?style=for-the-badge&logo=razor&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-68217A.svg?style=for-the-badge&logo=razor&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
 # 📊 GitHub Stats:
