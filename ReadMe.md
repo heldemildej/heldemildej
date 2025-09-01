@@ -19,9 +19,8 @@ Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) |
 ---
 
 ## 📌 Featured Projects
-🔹 [Sistema de Tarefas API](https://github.com/heldemildej/sistema-de-tarefa-api) – API RESTful com ASP.NET Core + EF Core  
-🔹 [Correndo Para Escola](https://github.com/heldemildej/correndo-para-escola) 
-Jogo desenolvido com foco educatio e publicitário 
+🔹 [Sistema de Tarefas API](https://github.com/heldemildej/sistema-de-tarefa-api) – API RESTful desenvolvida com **ASP.NET Core** e **Entity Framework Core**.   
+🔹 [Correndo Para Escola](https://github.com/heldemildej/correndo-para-escola) – Jogo desenolvido com foco educatio e publicitário 
 
 ---
 
