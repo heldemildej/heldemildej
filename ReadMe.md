@@ -32,7 +32,7 @@ Software Developer (.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server) | Gam
 
 # 👋 Hello, I'm Heldemilde João
 
-💫 **About Me**  
+## 💫 About Me  
 Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) | Game Developer 🎮  
 
 ---
