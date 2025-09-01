@@ -13,14 +13,14 @@ Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) |
 ## 💻 Tech Stack
 - **Languages:** C#  
 - **Frameworks:** .NET, ASP.NET Core, MVC, Razor Pages  
-- **Database:** SQL Server  
+- **Database:** SQL Server, MYSQL  
 
 ---
 
 ## 📌 Featured Projects
-- [Sistema de Tarefas API](https://github.com/heldemildej/sistema-de-tarefa-api) – API RESTful com ASP.NET Core + EF Core  
-- [O Coletor de Maçã](https://github.com/heldemildej/o-coletor-de-maca) – Jogo educativo  
-- [Correndo Para Escola](https://github.com/heldemildej/correndo-para-escola) – Jogo em 2D  
+🔹 [Sistema de Tarefas API](https://github.com/heldemildej/sistema-de-tarefa-api) – API RESTful com ASP.NET Core + EF Core  
+🔹 [Correndo Para Escola](https://github.com/heldemildej/correndo-para-escola) 
+Jogo desenolvido com foco educatio e publicitário 
 
 ---
 
