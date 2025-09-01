@@ -7,7 +7,7 @@ Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) |
 
 ## 🌐 Socials
 
-(www.linkedin.com/in/heldemildejoao)  
+**Linkedin:** www.linkedin.com/in/heldemildejoao  
 
 ---
 
