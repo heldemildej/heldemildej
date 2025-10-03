@@ -16,7 +16,7 @@ Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) |
 - **Frameworks:** .NET, ASP.NET Core, MVC, Razor Pages  
 - **Database:** SQL Server, MYSQL  
 
----
+
   
 
 
