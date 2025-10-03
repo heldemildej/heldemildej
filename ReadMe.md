@@ -23,10 +23,4 @@ Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) |
 🔹 [Sistema de Tarefas API](https://github.com/heldemildej/sistema-de-tarefa-api) – API RESTful desenvolvida com **ASP.NET Core** e **Entity Framework Core**.   
 
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heldemildej&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heldemildej&layout=compact&theme=transparent)  
-
----
