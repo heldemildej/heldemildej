@@ -1,7 +1,7 @@
 # Hello, I'm Heldemilde João
 
 ## About Me  
-.Net Developer 
+- .Net Developer 
 ---
 
 ## 🌐 Socials
