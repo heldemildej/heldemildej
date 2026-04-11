@@ -1,8 +1,7 @@
-# 👋 Hello, I'm Heldemilde João
+# Hello, I'm Heldemilde João
 
-## 💫 About Me  
-Software Developer (**.NET/C#, ASP.NET Core Web API & MVC/Razor, SQL Server**) | Game Developer 🎮  
-
+## About Me  
+.Net Developer 
 ---
 
 ## 🌐 Socials
