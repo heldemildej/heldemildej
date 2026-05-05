@@ -1,15 +1,15 @@
-# Heldemilde João
+## Heldemilde João
 
 Desenvolvedor Backend .NET
 
-## SOBRE MIM
+#### SOBRE MIM
 Sou desenvolvedor backend focado na construção de APIs REST e sistemas escaláveis utilizando C# e ASP.NET Core.
 
 Tenho experiência prática em projetos que aplicam princípios de engenharia de software como Clean Architecture, Domain-Driven Design (DDD), CQRS e SOLID.
 
 O meu foco é desenvolver sistemas organizados, com código limpo, manutenção simples e arquitetura preparada para evolução.
 
-## COMPETÊNCIAS
+### COMPETÊNCIAS
 C#
 .NET
 ASP.NET Core
