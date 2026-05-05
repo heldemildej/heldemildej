@@ -8,16 +8,16 @@ Tenho experiência prática em projetos que aplicam princípios de engenharia de
 O meu foco é desenvolver sistemas organizados, com código limpo, manutenção simples e arquitetura preparada para evolução.
 
 #### COMPETÊNCIAS
-C#
-.NET
-ASP.NET Core
-Criação de APIs REST
-SQL Server
-MySQL
-Clean Architecture
-DDD (Domain-Driven Design)
-CQRS
-SOLID
+C#,
+.NET,
+ASP.NET Core,
+Criação de APIs REST,
+SQL Server,
+MySQL,
+Clean Architecture,
+DDD (Domain-Driven Design),
+CQRS,
+SOLID,
 
 #### FERRAMENTAS
 Git
