@@ -20,8 +20,8 @@ CQRS,
 SOLID,
 
 #### FERRAMENTAS
-Git
-GitHub
+Git,
+GitHub,
 Swagger
 
 #### OBJETIVO PROFISSIONAL
