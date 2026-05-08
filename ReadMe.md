@@ -1,7 +1,7 @@
 ### Heldemilde João - Backend .NET Developer
 
 ## 👨‍💻 SOBRE MIM
-Sou desenvolvedor backend especializado na criação de APIs REST e sistemas escaláveis com C# e ASP.NET Core.
+Sou desenvolvedor backend com foco na criação de APIs REST e sistemas escaláveis com C# e ASP.NET Core.
 
 Tenho experiência prática aplicando boas práticas de engenharia de software como Clean Architecture, DDD, CQRS e princípios SOLID.
 
