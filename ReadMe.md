@@ -7,7 +7,6 @@ Tenho experiência prática aplicando boas práticas de engenharia de software c
 
 O meu foco é construir sistemas bem estruturados, com código limpo, manutenção simples e preparados para crescimento.
 
----
 
 ## 📫 CONTACTOS
 <a href="mailto:heldemildejoao102@gmail.com">
